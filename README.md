@@ -7,14 +7,11 @@ Bienvenidos a continuación se presenta el desarrollo del Proyecto de Análisis 
 
 
 El presente proyecto se desarrolló bajo el perfil de un Data Analyst y tiene como finalidad la elaboración de un proyecto de análisis de datos para obtener información y conocimiento sobre el total de Pokemon en todas las generaciones.
-
-
-
+<br>
 <p align="center">
 <img src="src\pokemon.png" height=300 weight=700>
 </p>
-
-
+<br>
 
 **Este repositorio incluye:**
 
