@@ -11,7 +11,7 @@ El presente proyecto se desarrolló bajo el perfil de un Data Analyst y tiene co
 
 
 <p align="center">
-<img src="src\pokemon.png" height=300 weight=400>
+<img src="src\pokemon.png" height=300 weight=700>
 </p>
 
 
