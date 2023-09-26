@@ -1,3 +1,21 @@
+
+# <h1 align="center">**`Análisis de Datos de Pokemon`**</h1>
+
+Bienvenidos a continuación se presenta el desarrollo del Proyecto de Análisis de Datos
+
+## Introducción
+
+
+El presente proyecto se desarrolló bajo el perfil de un Data Analyst y tiene como finalidad la elaboración de un proyecto de análisis de datos para obtener información y conocimiento sobre el total de Pokemon en todas las generaciones.
+
+
+
+<p align="center">
+<img src="src\pokemon.png" height=300 weight=400>
+</p>
+
+
+
 **Este repositorio incluye:**
 
 
